@@ -125,3 +125,11 @@ license plates from their plate number.
 
 This Apple Shortcut helps you find the city and county associated with
 Iranian license plate codes.
+
+## Keywords
+
+Iran license plate, Iranian license plate, Iran car plate, پلاک ایران,
+
+پلاک خودرو ایران, تشخیص شهر از روی پلاک, کد شهرستان پلاک,
+
+پلاک خودرو iOS, شورتکات پلاک ایران, Apple Shortcuts
